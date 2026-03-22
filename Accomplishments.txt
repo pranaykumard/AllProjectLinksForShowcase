@@ -1,0 +1,60 @@
+Here is list of All Certification i did from 2015 - 2026
+Certifications:
+    Data Structures and Algorithms
+    Scaler Academy
+    Issued on: 2025
+    Link: https://moonshot.scaler.com/s/sl/I5dVYdXqKM
+
+    Databases and SQL 
+    Scaler Academy
+    Issued on: 2025
+    Link: https://moonshot.scaler.com/s/sl/4A2FTrcroV
+
+    Java 
+    Scaler Academy
+    Issued on: 2025
+    Link: https://moonshot.scaler.com/s/sl/_wPrCmyqT3
+
+    Low Level Design 
+    Scaler Academy
+    Issued on: 2025
+    Link: https://moonshot.scaler.com/s/tw/llLZaam5jv
+
+    Backend Project(Java/Spring Boot)
+    Scaler Academy
+    Issued on: 2025
+    Link: https://moonshot.scaler.com/s/tw/N2a07wipux
+
+    Introduction to Computational Thinking and Data Science
+    MITx
+    Issued on: 2017
+    Link: https://courses.edx.org/certificates/8cca466958a248d0a07413a5c17d5c8a
+
+    Certified Ethical Hacker (CEH)
+    EC Council
+    Issued Oct 2018 · Expired Oct 2021
+    Credential ID: ECC0237965841
+
+Udemy:
+    Python 3: Deep Dive Part 1,  Python 3: Deep Dive Part 2,  Python 3: Deep Dive Part 3,  Python 3: Deep Dive Part 4 by Dr. Fred Baptiste
+    Complete-Python-3-Bootcamp  by Jose Portilla, pierian training
+    Python Data Visualization: Matplotlib & Seaborn Masterclass by chris bruehl
+
+MIT OCW:
+    Linear Algebra by Prof. Gilbert Strang
+    Introduction to Probability and Statistics by Dr. Jeremy Orloff,Dr. Jennifer French Kamrin
+
+Edx:
+    CS50X by harward University
+
+Computer Networks by Standford University on youtube https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z 
+
+Cybrary.it:
+    CompTIA A+
+    CompTIA Network+
+
+Coursera:
+    Machine Learning - Stanford University by andrew Ng 
+    
+
+
