@@ -1,0 +1,46 @@
+Target Detection and Localization using Deep Learning
+    Project aimed at developing deep learning approach to localise targets in videos which are captured from a
+    UAV(unmanned aerial vehicle) using corresponding satellite images of that region.
+    Its based on detecting objects in a video and making a bounding box around it. We have used openCV, darkf low
+    tools which are YOLO v2 model, convolutional neural net works which helped us in achieving what we needed.
+    We could able to achieve 77% accuracy to find objects in untrained images.
+    https://github.com/pranaykumard/TargetDetectionAndLocalization has further details about project
+
+Ecommerce Project using spring boot
+    'Architected and developed a microservices-based E-commerce platform using Spring Boot, Spring Cloud, MySQL,
+    and Kafka, covering functionalities from user authorization to payment gateway integration,tested with JUnit and
+    deployed on AWS Elastic Beanstalk leveraging RDS for Data Persistence, CloudWatch for efficient Logging and
+    Monitoring.
+    Implemented powerful sorting, filtering and paging to allow for efficient discovery of products.
+    Optimized the response time of APIs from ~500 ms to ~20 ms by making effective usage of Caching for static
+    data using Redis Cache.
+    https://github.com/pranaykumard/ProductCatalogAPIService
+    https://github.com/pranaykumard/EmailService2025
+    https://github.com/pranaykumard/PaymentService2025
+    https://github.com/pranaykumard/UserAuthentication
+    https://github.com/pranaykumard/ServiceDiscovery2025
+
+Mini Projects 1:
+
+    Google OAuth2 / OpenID Connect login
+    User created/updated in DB on first login
+    CRUD API for user-owned data
+    Session-based authentication
+
+Mini Project 2:
+    A demo project showcasing Spring for Apache Kafka to send data between two microservices. Based on Spring Kafka.
+    https://github.com/pranaykumard/Kafka_Showcase
+
+Mini Project 3:
+    DjangoVotingAppTutorial, Created views and understood MVT architecture,Created Databases in SQLlite and performed 
+    few CRUD operations, handled Requests and Responses in Django and there by running the app in localhost.
+    https://github.com/pranaykumard/DjangoVotingAppTutorial
+
+Mini Project 4:
+    TicTacToe, developed the game using react, javascript, various react hooks
+    https://github.com/pranaykumard/tictactoe 
+
+Mini Project 5:
+    Python Bootcamp
+    https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
+
